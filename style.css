@@ -1,0 +1,135 @@
+@import url("https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,600;0,800;1,600;1,800&display=swap");
+:root {
+    --yellow: hsl(47, 88%, 63%);
+    --white: hsl(0, 0%, 100%);
+    --grey: hsl(0, 0%, 50%);
+    --black: hsl(0, 0%, 7%);
+    --fw-600: 600;
+    --fw-800: 800;
+}
+
+
+/* Universal Selectors */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* Body Selector */
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    box-sizing: content-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--yellow);
+    font-family: "Figtree", sans-serif;
+}
+
+
+/* Font Related Styles */
+
+h1 {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 16px;
+}
+
+
+/* Styles Related to Card */
+
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: var(--white);
+    width: 345px;
+    height: 550px;
+    text-align: left;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px 1px var(--black);
+    border-left: 1px solid var(--black);
+    border-top: 1px solid var(--black);
+    margin-bottom: 50px;
+}
+
+.header {
+    margin: auto;
+}
+
+.logo-pic {
+    width: 95%;
+    margin: auto;
+    border-radius: 22px;
+    display: block;
+    text-align: center;
+    padding: 10px;
+}
+
+.learning {
+    margin-left: 20px;
+    margin-bottom: -20px;
+}
+
+.learning>p {
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.learning-btn {
+    cursor: pointer;
+    margin-bottom: 10px;
+    padding: 7px 15px;
+    background-color: var(--yellow);
+    border-radius: 5px;
+    border: none;
+}
+
+.description {
+    margin-bottom: -40px;
+}
+
+.description>h1:hover {
+    cursor: pointer;
+    color: var(--yellow);
+}
+
+.description>p {
+    color: var(--grey);
+    display: block;
+    font-size: 16px;
+}
+
+.footer-profile {
+    display: flex;
+    align-items: center;
+    padding-bottom: 5px;
+}
+
+.footer-profile-pic {
+    margin-left: 20px;
+    width: 50px;
+    height: 50px;
+}
+
+.footer-profile-name {
+    margin-left: 10px;
+}
+
+
+/* Styles Related to Attributions */
+
+a:link,
+a:visited {
+    color: hsl(215, 97%, 23%);
+    font-size: 12px;
+}
