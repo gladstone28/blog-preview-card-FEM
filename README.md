@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./design/desktop-preview.jpg)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -87,17 +87,18 @@ I plan to contribute and help to define the landscape mode  and to inject feedba
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Example resource 1](https://www.codecademy.com) - I really liked and enjoyed the courses and will use the lessons learned going forward.
+- [Example resource 2](https://www.youtube.com/watch?v=EiNiSFIPIQE) - This is a very good video which helped me finally understand CSS Grid vs CSS Flexbox. I'd recommend it to anyone still learning these tools.
+- [Example resource 3](https://www.youtube.com/watch?v=5wLrz_zUwoU)-This video teaches CSS variable quite easily
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Add your name here](https://www.gladstonerose.tech)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/gladstone28)
 - Twitter - [@yourusername](https://www.twitter.com/gladdyus)
 
 
 ## Acknowledgments
 
-I extend my sincere gratitude to my family, friends, and the Frontend Mentor community. Their encouragement and the opportunities provided by Frontend Mentor have been critical in advancing my coding skills.
+I extend my sincere gratitude to my family, friends, and the Frontend Mentor community. The patience and encouragement from family and friends and the opportunities provided by Frontend Mentor have been critical in advancing my coding skills.
